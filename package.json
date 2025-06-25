@@ -14,11 +14,7 @@
     "@google/genai": "^1.5.1",
     "@heroicons/react": "^2.2.0",
     "jspdf": "2.5.1",
-    "html2canvas": "1.4.1",
-    "@/components": "latest",
-    "@/constants": "latest",
-    "@/types": "latest",
-    "@/services": "latest"
+    "html2canvas": "1.4.1"
   },
   "devDependencies": {
     "@types/node": "^22.14.0",
