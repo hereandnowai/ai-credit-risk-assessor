@@ -12,8 +12,6 @@
     "react": "^19.1.0",
     "react-dom": "^19.1.0",
     "@google/genai": "^1.5.1",
-    "@heroicons/react/24/outline": "2.0.18",
-    "@heroicons/react/24/solid": "2.0.18",
     "@heroicons/react": "^2.2.0",
     "jspdf": "2.5.1",
     "html2canvas": "1.4.1",
